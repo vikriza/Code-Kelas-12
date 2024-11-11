@@ -92,7 +92,7 @@ int main() {
     if (generated_hash == target_hash) {
         std::cout << "Hash cocok dengan target!" << std::endl;
     } else {
-        std::cout << "Hash tidak cocok dengan target." << std::endl;
+        std::cout << "HASH TIDAK COCOK DENGAN TARGET!!!" << std::endl;
     }
 
     return 0;
